@@ -1,6 +1,6 @@
 # Linear Regression on California Housing Dataset
 
-This project uses linear regression with different regularization techniques to predict housing prices in California. It compares the performance of Elastic Net and Ridge Regression using `SGDRegressor` from scikit-learn, with proper scaling and evaluation via cross-validation.
+How can we predict median housing prices in California based on demographic and geographic features? This project explores how different regularization strategies in linear regression affect model performance on real-world housing data. The goal is to compare the effectiveness of Elastic Net and Ridge Regression using a standardized modeling workflow.
 
 ## Dataset
 
